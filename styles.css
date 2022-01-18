@@ -1,0 +1,17 @@
+.formGroup {
+    margin-top: 5px;
+}
+
+.formGroup > label {
+    width: 120px;
+    display: inline-block;
+    text-align: right;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
